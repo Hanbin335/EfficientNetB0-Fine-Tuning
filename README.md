@@ -64,5 +64,10 @@ EfficientNet_Fine_Tuning
 
 ● 훈련과 검증 데이터에서 각각 98%, 99%의 정확도와 4%, 0.7%의 손실로 모델이 데이터를 효과적으로 일반화함을 확인
 
+이미지 예측
+---
+![image](https://github.com/user-attachments/assets/d31a087a-1386-4e2f-9a32-d6e864ccf554)
+
+
 ● 모델의 학습 정확도와 손실이 안정적으로 감소/증가하여, 과적합 없이 일관된 성능 향상
 
