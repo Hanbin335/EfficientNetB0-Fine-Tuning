@@ -1,6 +1,7 @@
 EfficientNet_Fine_Tuning
 -----
-![스크린샷 2024-10-08 232045](https://github.com/user-attachments/assets/a5dc2e38-fbd2-4b7f-9bb5-9312b7c57d04)
+![image](https://github.com/user-attachments/assets/4a0c6666-234f-45c7-8088-4223fdfa91df)
+
 
 프로젝트 소개
 ----
